@@ -1,2 +1,0 @@
-# guessGame
-Guess My Number
